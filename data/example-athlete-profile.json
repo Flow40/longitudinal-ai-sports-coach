@@ -1,0 +1,29 @@
+{
+  "age_range": "40-49",
+  "sports": [
+    "running",
+    "strength training",
+    "CrossFit"
+  ],
+  "goals": [
+    "return to training safely",
+    "build strength",
+    "maintain conditioning"
+  ],
+  "constraints": [
+    "previous right shoulder dislocation",
+    "lumbar sensitivity"
+  ],
+  "available_equipment": [
+    "commercial gym",
+    "hotel dumbbells",
+    "cable machine",
+    "TRX",
+    "resistance bands"
+  ],
+  "preferences": [
+    "time-efficient sessions",
+    "clear load guidance",
+    "exercise substitutions when needed"
+  ]
+}
